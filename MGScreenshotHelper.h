@@ -5,7 +5,7 @@
 //  Copyright (c) 2014 Matteo Gobbi (Voxygen). All rights reserved.
 //
 
-@interface MGScreenshotHelper.h
+@interface MGScreenshotHelper : NSObject
 
 /* Get the screenshot of an UIView (so take just UIKit elements and not OpenGL or AVFoundation stuff. */
 + (UIImage *)getScreenshotFromView:(UIView *)captureView;
