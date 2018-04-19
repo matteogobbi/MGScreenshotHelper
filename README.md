@@ -7,7 +7,7 @@ This is an helper class to make screenshots of views or of the screen (with open
 
 Matteo Gobbi
 
-- http://www.matteogobbi.it
+- http://matteogobbi.github.io
 - http://github.com/matteogobbi
 - http://twitter.com/matteo_gobbi
 - https://angel.co/matteo-gobbi
@@ -15,4 +15,4 @@ Matteo Gobbi
 
 ## License
 
-MGConferenceDatePicker is available under the MIT license.
+MGScreenshotHelper is available under the MIT license.
